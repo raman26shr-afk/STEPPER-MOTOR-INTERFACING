@@ -71,7 +71,11 @@ DATA:    DB 09H, 05H, 06H, 0AH ; Array of data
 ```
 ## OUTPUT OF THE PROGRAM:
 
-# Clock wise direction
+## Clock wise direction
+<img width="374" height="282" alt="WhatsApp Image 2026-11-03 at 9 52 34 AM" src="https://github.com/user-attachments/assets/06e58c23-8251-49ee-aa9b-e7f3732d1975" />
+
+## Anti-clock wise direction
+<img width="372" height="252" alt="WhatsApp Image 2026-11-03 at 9 52 24 AM" src="https://github.com/user-attachments/assets/52dae7fc-8a5a-423e-acd9-c6e07bd0cfeb" />
 
 
 ## RESULT
