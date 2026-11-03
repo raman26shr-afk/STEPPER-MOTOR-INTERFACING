@@ -71,7 +71,7 @@ DATA:    DB 09H, 05H, 06H, 0AH ; Array of data
 ```
 ## OUTPUT OF THE PROGRAM:
 
-## Clock wise direction
+# Clock wise direction
 
 
 ## RESULT
